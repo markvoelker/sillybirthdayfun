@@ -1,0 +1,7 @@
+# Gee, nobody would be silly enough to leave a secret key in a git
+# repository...right?  Surely everybody would at least use a gitignore
+# for that...right??
+#
+# created: 2020-04-16T10:44:55-04:00
+# public key: age1k3u9qkcs934g3t6azsycg0mtvateghv8f4efmk4gxxhnq9k0rynq7hsgju
+AGE-SECRET-KEY-1453R8EXPL4TKRFR0N3U228L56R32D6VSD4MDT0AH4WHCFWW06TKQ4K7FFG
